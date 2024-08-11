@@ -35,8 +35,9 @@ There are a lot of new buildings, town, and county which you can use this as a r
 > Don't reuse the world data that is coming from PC or even some SC2.3 API applications to your **Android or iOS device**. It will cause errors. See `Caution` Note for more details.
 
 > [!CAUTION]
-> - Accessing all modification from PC to Android or iOS device will not be used anymore due to several 2.3 update that can cause the world to have errors.
-> - We will building more of this only on the Android Device. and we will release for all.
+> - Accessing all modification from PC to Android or iOS device will not be used anymore due to several 2.3 update that can cause the world to have errors. That was `Specific Cast is not valid`, `Region Data already exists`, and some sort of `Related Project XML Code issues`.
+> - We will building more of this only on the **Android Device**. and we will release for all.
+> - We are not going to use **SC2 API softwares** anymore. we've just using the **SurvivalCraft2.**
 > - We will always release the snapshot and final versions of the Clot Delora to prevent our hard works from loss.
 > - We are not about to upload this world via **Community Content**, in order to get the new updates about this world.
 
