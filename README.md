@@ -32,7 +32,7 @@ There are a lot of new buildings, town, and county which you can use this as a r
 >    `%userprofile%\AppData\Local\Packages\20961CandyRufusGames.Survivalcraft_37n3x3g7b0zd6\LocalState\TexturePacks`
 
 > [!WARNING]
-> Don't reuse the world date that is coming from PC or even some SC2.3 API applications. It will cause errors. See `Caution` Note for more details.
+> Don't reuse the world data that is coming from PC or even some SC2.3 API applications to your **Android or iOS device**. It will cause errors. See `Caution` Note for more details.
 
 > [!CAUTION]
 > - Accessing all modification from PC to Android or iOS device will not be used anymore due to several 2.3 update that can cause the world to have errors.
