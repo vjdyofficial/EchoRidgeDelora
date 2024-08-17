@@ -18,16 +18,17 @@ This world was edited by me as the part for Clot DeLora, and I add a lot of buil
 |DeLora Canto House        |Taco Bell                   |Skyarrow Ranch                      |Kaye Collada's Plant Shop   |DeLora Terminal            |
 |Small DeLora              |Pokémon Cafe                |DeLora Beach Resort                 |Cloth Store                 |DeLora Mall                |
 |Big DeLora                |Pokémon Milktea             |Tambayan ng mga Pokémonista         |Tool Shop                   |Pokémon Center             |
-|                          |7-Eleven                    |DeLora Garden                       |Vet                         |Pokémon Gym                |
-|                          |Sharo Bar                   |DeLora Stay and Relax               |Weapon Shop                 |Gas Gas                    |
-|                          |Nacrene Café Warehouse      |Internet Café                       |                            |Sharo Bank                 |
-|                          |                            |                                    |                            |DeLora Database Center     |
-|                          |                            |                                    |                            |DeLora Office              |
-|                          |                            |                                    |                            |DeLora Event Center        |
-|                          |                            |                                    |                            |City Hall                  |
-|                          |                            |                                    |                            |WAZA National Headquarters |
+|Casa de VJDY              |7-Eleven                    |DeLora Garden                       |Vet                         |Pokémon Gym                |
+|Casa de Azrealiza         |Sharo Bar                   |DeLora Stay and Relax               |Weapon Shop                 |Gas Gas                    |
+|Casa de Moderna           |Nacrene Café Warehouse      |Internet Café                       |                            |Sharo Bank                 |
+|Casa de Machu             |                            |                                    |                            |DeLora Database Center     |
+|Casa de Buena             |                            |                                    |                            |DeLora Office              |
+|Casa de Gianan            |                            |                                    |                            |DeLora Event Center        |
+|Casa de Pado              |                            |                                    |                            |City Hall                  |
+|Casa de Nathan            |                            |                                    |                            |WAZA National Headquarters |
 |                          |                            |                                    |                            |DeLora Strand School       |
 |                          |                            |                                    |                            |Onataglam Server Center    |
+|                          |                            |                                    |                            |DeLora Church              |
 
 # Notices and Importances
 
