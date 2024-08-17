@@ -40,13 +40,13 @@ This world was edited by me as the part for Clot DeLora, and I add a lot of buil
 
 > [!TIP]
 > To download the SCWORLD directly to SurvivalCraft2, here's the step by step:
-> # For Android and iOS
+> ## For Android and iOS
 > 1. Go to `Content` and click `From Link` button.
 > 2. type the URL in the text box: `https://github.com/vjdyofficial/ClotDelora-SC2/releases/download/<DATE>/place.scworld`
 >    the string `<DATE>` is represent as the date and index: `11aug2024-01`. You must go to Releases and it will lead you to the latest release in order to know the release tag.
 > 3. Click `Download` button.
 > 4. Load the world, and **enjoy**!
-> # For PC
+> ## For PC
 > 1. You must go to Releases and it will lead you to the latest release.
 > 2. Download place.scworld
 > 3. Open it as archive using 7-Zip File Manager.
