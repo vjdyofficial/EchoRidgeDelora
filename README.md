@@ -8,6 +8,29 @@ This SurvivalCraft2 World was owned by DeLora X Power Studios created in April 2
 After the year of 2022, VJDY Official Productions collaborated with DeLora X Power Studios to create this possible changes to minimal look.
 There are a lot of new buildings, town, and county which you can use this as a roleplaying.
 
+# Buildings and Places
+This world was edited by me as the part for Clot DeLora, and I add a lot of buildings here.
+|Hotels and Houses         |Restaurants                 |Parks and Recreations               |Shops                       |Establishmets              |
+|---                       |---                         |---                                 |---                         |---                        |
+|DeLora Star Hotel         |DeLora Restaurant           |DeLora National Park and Resort     |DeLora Market               |DeLora FM                  |
+|DeLora Seksi Hotel        |Café India                  |DeLora Plaza                        |DeLora Shop                 |Pokéstar Studios           |
+|Delora Sweet Hotel        |Burger King                 |Horse Recing Plaza                  |DeLora Driftveil Market     |Blue Gomo                  |
+|DeLora Canto House        |Taco Bell                   |Skyarrow Ranch                      |Kaye Collada's Plant Shop   |DeLora Terminal            |
+|Small DeLora              |Pokémon Cafe                |DeLora Beach Resort                 |Cloth Store                 |DeLora Mall                |
+|Big DeLora                |Pokémon Milktea             |Tambayan ng mga Pokémonista         |Tool Shop                   |Pokémon Center             |
+|                          |7-Eleven                    |DeLora Garden                       |Vet                         |Pokémon Gym                |
+|                          |Sharo Bar                   |DeLora Stay and Relax               |Weapon Shop                 |Gas Gas                    |
+|                          |Nacrene Café Warehouse      |Internet Café                       |                            |Sharo Bank                 |
+|                          |                            |                                    |                            |DeLora Database Center     |
+|                          |                            |                                    |                            |DeLora Office              |
+|                          |                            |                                    |                            |DeLora Event Center        |
+|                          |                            |                                    |                            |City Hall                  |
+|                          |                            |                                    |                            |WAZA National Headquarters |
+|                          |                            |                                    |                            |DeLora Strand School       |
+|                          |                            |                                    |                            |Onataglam Server Center    |
+
+# Notices and Importances
+
 > [!IMPORTANT]
 > **Clot DeLora** SurvivalCraft2 world has been used as the roleplaying for **SurvivalCraft2 Clot Delora Part Series by _DeLora X Power Studios_**, and **SurvivalCraft2 Echo Ridge Delora Series by _VJDY Official Productions_**.
 
