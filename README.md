@@ -3,10 +3,20 @@ Clot DeLora is the SurvivalCraft2 World File that has an aesthetic, wooden tradi
 
 ![Survivalcraft 2024-08-11 23-27-19](https://github.com/user-attachments/assets/26aee563-4007-466b-b49b-e8a20b6f3854)
 
-
 This SurvivalCraft2 World was owned by DeLora X Power Studios created in April 2020.
 After the year of 2022, VJDY Official Productions collaborated with DeLora X Power Studios to create this possible changes to minimal look.
 There are a lot of new buildings, town, and county which you can use this as a roleplaying.
+
+# Casts
+
+|STARRING      |POKÉMON BLACK AND WHITE 2<br>(UNOVA REGION)|PANGO SIBLIINGS|RUSSIAN CITIZENS|DELORA DONATOR|CDPD POLICE OFFICERS|JAICA SISTERS  |ALBANIAN CITIZENS|AMERICAN CITIZENS|SERBIAN CITIZENS|
+|---           |---                                        |---            |---             |---           |---                 |---            |---              |---              |---             |
+|vjdyofficial  |Nate Martinez                              |Jessie Pango   |Margot dé Santa |Maria Davidson|Nico Mindanao       |Kaye Jaica     |Liz Islamaj Lopez|Zara Aline       |Sofjia Pesic    |
+|Gracie Hansel |Rosa Martinez                              |Difa Pango     |Zorro Roscalov  |              |Jamaica Abadesa     |Azrealiza Jaica|Marvin Aguátin   |Keith Perez      |Marko Nikolic   |
+|Chole Hansel  |Aurea Juniper                              |               |Leanna Hakinnen |              |                    |Lassie Jaica   |Christian Lopez  |Ben Acosta       |Zora Blagojevic |
+|Anna Hansel   |Cedric Juniper                             |               |Johnny Mayanan  |              |                    |               |Thea Ganados     |Brent Davis      |                |
+|Clara Martinez|                                           |               |Mishca Saznetsov|              |                    |               |                 |Kelly Jackson    |                |
+|Kate Adams    |                                           |               |                |              |                    |               |                 |                 |                |
 
 # Buildings and Places
 This world was edited by me as the part for Clot DeLora, and I add a lot of buildings here.
