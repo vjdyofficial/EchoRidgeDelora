@@ -8,15 +8,25 @@ After the year of 2022, VJDY Official Productions collaborated with DeLora X Pow
 There are a lot of new buildings, town, and county which you can use this as a roleplaying.
 
 # Casts
+These are a list that you can see in any episodes.
 
-|STARRING      |POKÉMON BLACK AND WHITE 2<br>(UNOVA REGION)|PANGO SIBLIINGS|RUSSIAN CITIZENS|DELORA DONATOR|CDPD POLICE OFFICERS|JAICA SISTERS  |ALBANIAN CITIZENS|AMERICAN CITIZENS|SERBIAN CITIZENS|
-|---           |---                                        |---            |---             |---           |---                 |---            |---              |---              |---             |
-|vjdyofficial  |Nate Martinez                              |Jessie Pango   |Margot dé Santa |Maria Davidson|Nico Mindanao       |Kaye Jaica     |Liz Islamaj Lopez|Zara Aline       |Sofjia Pesic    |
-|Gracie Hansel |Rosa Martinez                              |Difa Pango     |Zorro Roscalov  |              |Jamaica Abadesa     |Azrealiza Jaica|Marvin Aguátin   |Keith Perez      |Marko Nikolic   |
-|Chole Hansel  |Aurea Juniper                              |               |Leanna Hakinnen |              |                    |Lassie Jaica   |Christian Lopez  |Ben Acosta       |Zora Blagojevic |
-|Anna Hansel   |Cedric Juniper                             |               |Johnny Mayanan  |              |                    |               |Thea Ganados     |Brent Davis      |                |
-|Clara Martinez|                                           |               |Mishca Saznetsov|              |                    |               |                 |Kelly Jackson    |                |
-|Kate Adams    |                                           |               |                |              |                    |               |                 |                 |                |
+|STARRING      |POKÉMON BLACK AND WHITE 2<br>(UNOVA REGION)|PANGO SIBLIINGS|RUSSIAN CITIZENS|DELORA DONATOR|
+|---           |---                                        |---            |---             |---           |
+|vjdyofficial  |Nate Martinez                              |Jessie Pango   |Margot dé Santa |Maria Davidson|
+|Gracie Hansel |Rosa Martinez                              |Difa Pango     |Zorro Roscalov  |              |
+|Chole Hansel  |Aurea Juniper                              |               |Leanna Hakinnen |              |
+|Anna Hansel   |Cedric Juniper                             |               |Johnny Mayanan  |              |
+|Clara Martinez|                                           |               |Mishca Saznetsov|              |
+|Kate Adams    |                                           |               |                |              |
+
+|CDPD POLICE OFFICERS|JAICA SISTERS  |ALBANIAN CITIZENS|AMERICAN CITIZENS|SERBIAN CITIZENS|
+|---                 |---            |---              |---              |---             |
+|Nico Mindanao       |Kaye Jaica     |Liz Islamaj Lopez|Zara Aline       |Sofjia Pesic    |
+|Jamaica Abadesa     |Azrealiza Jaica|Marvin Aguátin   |Keith Perez      |Marko Nikolic   |
+|                    |Lassie Jaica   |Christian Lopez  |Ben Acosta       |Zora Blagojevic |
+|                    |               |Thea Ganados     |Brent Davis      |                |
+|                    |               |                 |Kelly Jackson    |                |
+
 
 # Buildings and Places
 This world was edited by me as the part for Clot DeLora, and I add a lot of buildings here.
@@ -36,8 +46,8 @@ This world was edited by me as the part for Clot DeLora, and I add a lot of buil
 |Casa de Gianan            |                            |                                    |                            |DeLora Event Center        |
 |Casa de Pado              |                            |                                    |                            |City Hall                  |
 |Casa de Nathan            |                            |                                    |                            |WAZA National Headquarters |
-|                          |                            |                                    |                            |DeLora Strand School       |
-|                          |                            |                                    |                            |Onataglam Server Center    |
+|Kaye Collada's House 3502 |                            |                                    |                            |DeLora Strand School       |
+|May Nato's House 3501     |                            |                                    |                            |Onataglam Server Center    |
 |                          |                            |                                    |                            |DeLora Church              |
 
 # Notices and Importances
