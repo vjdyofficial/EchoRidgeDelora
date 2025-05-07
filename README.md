@@ -10,14 +10,14 @@ There are a lot of new buildings, town, and county which you can use this as a r
 # Casts
 These are a list that you can see in any episodes.
 
-|STARRING      |POKÉMON BLACK AND WHITE 2<br>(UNOVA REGION)|PANGO SIBLIINGS|RUSSIAN CITIZENS|DELORA DONATOR|
-|---           |---                                        |---            |---             |---           |
-|vjdyofficial  |Nate Martinez                              |Jessie Pango   |Margot dé Santa |Maria Davidson|
-|Gracie Hansel |Rosa Martinez                              |Difa Pango     |Zorro Roscalov  |              |
-|Chole Hansel  |Aurea Juniper                              |               |Leanna Hakinnen |              |
-|Anna Hansel   |Cedric Juniper                             |               |Johnny Mayanan  |              |
-|Clara Martinez|                                           |               |Mishca Saznetsov|              |
-|Kate Adams    |                                           |               |                |              |
+|STARRING      |POKÉMON BLACK AND WHITE 2<br>(UNOVA REGION)|PANGO SIBLIINGS|RUSSIAN CITIZENS|DELORA DONATORS|
+|---           |---                                        |---            |---             |---            |
+|vjdyofficial  |Nate Martinez                              |Jessie Pango   |Margot dé Santa |Maria Davidson |
+|Gracie Hansel |Rosa Martinez                              |Difa Pango     |Zorro Roscalov  |Johnny Mayanan |
+|Chole Hansel  |Aurea Juniper                              |               |Leanna Hakinnen |Raina Malumay  |
+|Anna Hansel   |Cedric Juniper                             |               |Mishca Saznetsov|               |
+|Clara Martinez|                                           |               |                |               |
+|Kate Adams    |                                           |               |                |               |
 
 |CDPD POLICE OFFICERS|JAICA SISTERS  |ALBANIAN CITIZENS|AMERICAN CITIZENS|SERBIAN CITIZENS|
 |---                 |---            |---              |---              |---             |
